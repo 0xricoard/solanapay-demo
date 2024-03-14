@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -32,5 +32,33 @@
     "prettier-plugin-tailwindcss": "^0.1.1",
     "tailwindcss": "^3.0.7",
     "typescript": "4.5.4"
-  }
+  },
+  "name": "solanapaydemo-cookies",
+  "description": "from https://www.pointer.gg/tutorials/solana-pay-irl-payments",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xricoard/solanapay-demo.git"
+  },
+  "keywords": [
+    "Demo",
+    "how",
+    "to",
+    "Take",
+    "payments",
+    "IRL",
+    "with",
+    "Solana",
+    "Pay"
+  ],
+  "author": "Rico Ardiansyah, Pointer.gg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xricoard/solanapay-demo/issues"
+  },
+  "homepage": "https://github.com/0xricoard/solanapay-demo#readme"
 }
