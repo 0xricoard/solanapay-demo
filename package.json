@@ -35,7 +35,7 @@
   },
   "name": "solanapaydemo-cookies",
   "description": "from https://www.pointer.gg/tutorials/solana-pay-irl-payments",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "next.config.js",
   "directories": {
     "lib": "lib"
