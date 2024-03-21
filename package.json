@@ -20,7 +20,7 @@
     "next": "^12.1.5-canary.2",
     "react": "^17.0.2",
     "react-circular-progressbar": "^2.0.4",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
     "sum-feradilaka": "^1.0.0",
